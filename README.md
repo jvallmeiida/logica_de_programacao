@@ -1,4 +1,4 @@
-# logica_de_programacao
+# logica de programacao
 
 Dentro de cada pasta de exercício contém seu próprio README com a proposta do que deve ser feito no exercício.
 
