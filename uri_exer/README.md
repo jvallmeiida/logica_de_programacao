@@ -4,4 +4,4 @@ Tirei a ideia desse exercício de um link que um amigo me enviou pedindo ajuda p
 https://www.urionlinejudge.com.br/judge/en/problems/view/1010
 
 Iniciei criando testes e um método com entradas para calcular "compras em um supermercado"
-Resolvi cada tarefa bem a mão. Voltei aqui futuramente para simplificar essa solução
+Resolvi a tarefa bem a mão. Voltarei aqui futuramente para simplificar essa solução
