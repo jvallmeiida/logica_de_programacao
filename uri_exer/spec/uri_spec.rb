@@ -6,6 +6,7 @@ describe 'Calcular' do
     units_product = [2, 4, 1]
     prices_product = [10.5, 10.0, 8.0]
 
-    expect(Uri.new.calcular_compras(code_product, units_product, prices_product)).to eq("VALOR A PAGAR: R$ 69.00")
+    expect(Uri.new(code_product: code_product, units_product: units_product,
+                   prices_product: prices_product).calcular_compras).to eq("VALOR A PAGAR: R$ 69.00")
   end
 end
